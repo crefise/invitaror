@@ -1,0 +1,41 @@
+
+.body-main-div{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    background-color: grey;
+
+
+}
+
+.settings-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 20%;
+    height: 700px;
+    background-color: rgb(148, 187, 238);
+}
+.user-list-div {
+
+    width: 80%;
+    height: 700px;
+    background-color: rgb(164, 243, 181);
+}
+
+.add-new-guest-from-input {
+    text-align: center;
+    border: 1px black solid;
+    width: 80%;
+    padding: 10px;
+    margin: 10px;
+}
+
+.title-in-settings {
+    text-align: center;
+    font-weight: 700;
+    font-size: large;
+    margin: 5px;
+}
